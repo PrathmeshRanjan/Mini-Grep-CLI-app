@@ -1,0 +1,9 @@
+Hey there!
+My name is Prathmesh Ranjan.
+I'm a second year student at LNMIIT, Jaipur, India pursuing a bachelor's degree in Electronics and Communication Engineering.
+I'm  currently learning Rust and Blockchain development.
+I'm comfortable in languages like Java, Solidity, JavaScript, HTML and CSS besides Rust.
+I've developed dApps and onChain NFTs before and currently a blockchain intern at AirBrils.
+Thank you for your tImE.
+Hope you have a good day. 
+Goodbye!
